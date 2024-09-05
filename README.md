@@ -35,17 +35,18 @@ DiabetesMLApplication/
 ## Screenshots
 ### Home
 
-![Single Prediction](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/home.png)
+![Home](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/home.png)
 
 ### 1. Single Prediction
 
-![Single Prediction](images/single_prediction_one.png)
+![Single Prediction]((https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/SinglePredictionOne.png)
+![Single Prediction]((https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/SinglePredictionTwo.png)
 
 ### 2. Batch Prediction
 
-![Batch Prediction One](images/batch_prediction_one.png)
-![Batch Prediction Two](images/batch_prediction_two.png)
-![Batch Prediction Three](images/batch_prediction_three.png)
+![Batch Prediction One](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/BatchPredictionOne.png)
+![Batch Prediction Two](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/BatchPredictionTwo.png)
+![Batch Prediction Three](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/BatchPredictionThree.png)
 
 ### 3. Data Visualizations
 
