@@ -51,16 +51,16 @@ DiabetesMLApplication/
 ### 3. Data Visualizations
 
 - **BMI Distribution**  
-  ![BMI Distribution](images/bmi_distribution.png)
+  ![BMI Distribution](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/bmi_distribution.png)
 
 - **Age vs Prediction**  
-  ![Age vs Prediction](images/age_vs_prediction.png)
+  ![Age vs Prediction](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/age_vs_prediction.png)
 
 - **BMI vs Physical Health**  
-  ![BMI vs Physical Health](images/bmi_vs_physical_health.png)
+  ![BMI vs Physical Health](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/bmi_vs_physical_health.png)
 
 - **Prediction Distribution**  
-  ![Prediction Distribution](images/prediction_distribution.png)
+  ![Prediction Distribution](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/prediction_distribution.png)
 
   
 ## Contributing
