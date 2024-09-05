@@ -33,6 +33,9 @@ DiabetesMLApplication/
 └── requirements.txt      
 
 ## Screenshots
+### Home
+
+![Single Prediction](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/home.png)
 
 ### 1. Single Prediction
 
