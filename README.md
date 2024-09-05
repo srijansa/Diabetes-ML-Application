@@ -63,6 +63,14 @@ DiabetesMLApplication/
   ![Prediction Distribution](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/prediction_distribution.png)
 
   
+### 4. Streamlit 
+
+![Streamlit One](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/streamlitOne.png)
+![Streamlit Two](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/streamlitTwo.png)
+![Streamlit Three](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/streamlitThree.png)
+![Streamlit Four](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/streamlitFour.png)
+
+  
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 1. Fork the repository.
