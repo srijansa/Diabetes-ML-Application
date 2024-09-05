@@ -71,4 +71,4 @@ Contributions are welcome! Please follow these steps to contribute:
 If you have any questions or feedback, feel free to contact:
 
 Author: Srijan Sareen
-Email: your-email@example.com
+Email: srijansa@buffalo.edu
