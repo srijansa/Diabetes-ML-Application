@@ -39,8 +39,8 @@ DiabetesMLApplication/
 
 ### 1. Single Prediction
 
-![Single Prediction]((https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/SinglePredictionOne.png)
-![Single Prediction]((https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/SinglePredictionTwo.png)
+![Single Prediction](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/SinglePredictionOne.png)
+![Single Prediction](https://github.com/srijansa/Diabetes-ML-Application/blob/main/static/images/SinglePredictionTwo.png)
 
 ### 2. Batch Prediction
 
